@@ -58,12 +58,10 @@ p {
     background: transparent;
 }
 
-/* Handle */
 ::-webkit-scrollbar-thumb {
     background: pink;
 }
 
-/* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
     background: hotpink;
 }
