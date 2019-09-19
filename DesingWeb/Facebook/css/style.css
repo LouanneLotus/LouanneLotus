@@ -32,6 +32,6 @@ p {
 a {
     font-size: 1.5rem;;
 }
-.heightcard {
+.minheight {
     min-height: 121px;
 }
