@@ -68,8 +68,12 @@ html,body {
     background-color: dodgerblue;
 }
 
-.heightpage {
-    height: 700px;
+.heightpage95 {
+    height: 92%;
+}
+
+.heightpage5 {
+    height: 8%;
 }
 
 .heightpage100 {
