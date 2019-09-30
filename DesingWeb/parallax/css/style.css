@@ -116,9 +116,6 @@ html,body {
     h1{
         font-size: 25px;
     }
-    body {
-        width: 100%;
-    }
     .parallax {
         background-image: url(../img/parallaxcellzerotwo.jpg);
     }
@@ -128,9 +125,6 @@ html,body {
 @media screen and (min-width: 502px) and (max-width: 1530px) {
     h1{
         font-size: 25px;
-    }
-    body {
-        width: 100%;
     }
 }
 
