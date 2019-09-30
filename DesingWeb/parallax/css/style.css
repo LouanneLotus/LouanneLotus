@@ -104,7 +104,7 @@ html,body {
     margin-top: 50px;
 }
 
-@media only screen and (max-width: 480px){
+@media only screen and (max-width: 503px){
     h1{
         font-size: 25px;
     }
@@ -117,7 +117,7 @@ html,body {
 
 }
 
-@media screen and (min-width: 481px) and (max-width: 1199px) {
+@media screen and (min-width: 502px) and (max-width: 1530px) {
     h1{
         font-size: 25px;
     }
