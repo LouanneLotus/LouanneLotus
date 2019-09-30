@@ -1,0 +1,130 @@
+html,body {
+    margin:0;
+    height:100%;
+    background-color: lightpink;
+}
+
+.parallax {
+     background-image: url(../img/zero-two-darling-in-the-franxx-fanart-dc.jpg);
+
+     height: 100%;
+
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
+
+.parallax2 {
+    background-image: url(../img/wallpaperflare.com_wallpaper.jpg);
+    min-height: 500px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax3 {
+    background-image: url(../img/wallpaeperof.jpg);
+    min-height: 500px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+    background: hotpink;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: mediumpurple;
+}
+
+.special-card {
+    background-color: rgba(245, 245, 245, 1);
+    opacity: .8;
+}
+
+.pinkbackground {
+    background-color: lightpink;
+}
+
+.bluebackground {
+    background-color: darkblue;
+}
+
+.lightbluebackground {
+    background-color: dodgerblue;
+}
+
+.heightpage {
+    height: 700px;
+}
+
+.heightpage100 {
+    height: 100px;
+}
+
+.paddingbot150 {
+    padding-bottom: 150px;
+}
+
+.paddingbot50 {
+    padding-bottom: 50px;
+}
+
+.paddingtop {
+    padding-top: 50px;
+}
+
+.paddingleft20 {
+    padding-left: 30px;
+}
+
+.paddingright20 {
+    padding-right: 30px;
+}
+
+.textwhite {
+    color: white;
+}
+
+.margintop50 {
+    margin-top: 50px;
+}
+
+@media only screen and (max-width: 503px){
+    h1{
+        font-size: 25px;
+    }
+    body {
+        width: 100%;
+    }
+    .parallax {
+        background-image: url(../img/parallaxcellzerotwo.jpg);
+    }
+
+}
+
+@media screen and (min-width: 502px) and (max-width: 1530px) {
+    h1{
+        font-size: 25px;
+    }
+    body {
+        width: 100%;
+    }
+}
+
+
+

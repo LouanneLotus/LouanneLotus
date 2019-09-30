@@ -1,7 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de4fd7de-3c69-43e9-b6f3-8d3cd9dec095" name="Default Changelist" comment="" />
+    <list default="true" id="de4fd7de-3c69-43e9-b6f3-8d3cd9dec095" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Nav/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nav/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nav/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nav/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nav/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nav/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nav/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nav/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nav/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nav/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nav/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nav/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nav/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nav/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nav/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nav/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nav/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nav/feature.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nav/gallery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nav/img/carousel2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nav/img/carousel3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nav/img/carousel4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nav/img/carousel5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nav/img/carousel6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nav/img/carousel7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nav/img/carousel8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nav/img/carousel9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nav/img/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nav/img/png.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nav/img/tumblr_p3neymZXlx1qk55bko6_250 - Copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nav/img/zero-two-darling-in-the-franxx-gv-1920x1080.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nav/img/zerotwoicon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nav/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nav/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nav/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nav/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nav/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nav/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nav/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nav/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nav/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nav/js/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modal/.idea/modal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modal/.ideaa/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modal/.ideaa/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modal/.ideaa/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modal/.ideaa/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modal/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modal/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modal/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modal/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modal/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modal/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modal/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modal/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modal/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modal/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modal/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modal/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modal/img/vodsklgdfg;kl.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modal/img/volleybAL.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modal/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modal/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modal/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modal/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modal/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modal/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modal/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modal/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modal/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modal/js/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallax/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallax/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallax/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallax/.idea/parallax.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallax/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallax/.ideaa/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallax/.ideaa/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallax/.ideaa/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallax/.ideaa/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallax/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallax/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallax/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallax/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallax/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallax/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallax/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallax/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallax/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallax/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallax/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallax/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallax/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallax/img/business.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallax/img/hirobluehorn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallax/img/strelitzia-darling-in-the-franxx (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallax/img/wallpaeperof.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallax/img/wallpaperflare.com_wallpaper.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallax/img/zero-two-darling-in-the-franxx-fanart-dc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallax/img/zerotwohorn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallax/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallax/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallax/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallax/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallax/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallax/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallax/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallax/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallax/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallax/js/jquery-3.4.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +180,12 @@
       <option name="presentableId" value="Default" />
       <updated>1568058411389</updated>
       <workItem from="1568058412481" duration="8971000" />
-      <workItem from="1568838400180" duration="1228000" />
+      <workItem from="1568838400180" duration="1827000" />
+      <workItem from="1569180531738" duration="673000" />
+      <workItem from="1569266536280" duration="113000" />
+      <workItem from="1569543739026" duration="35000" />
+      <workItem from="1569544613038" duration="5000" />
+      <workItem from="1569548141414" duration="608000" />
     </task>
     <servers />
   </component>
@@ -80,7 +197,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
