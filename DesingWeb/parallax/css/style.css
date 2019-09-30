@@ -112,14 +112,13 @@ html,body {
     margin-top: 50px;
 }
 
-@media only screen and (max-width: 503px){
+@media only screen and (max-width: 660px){
     h1{
         font-size: 25px;
     }
     .parallax {
         background-image: url(../img/parallaxcellzerotwo.jpg);
     }
-
 }
 
 @media screen and (min-width: 502px) and (max-width: 1530px) {
