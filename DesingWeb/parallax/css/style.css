@@ -76,6 +76,10 @@ html,body {
     height: 8%;
 }
 
+.heightpage {
+    height: 100%;
+}
+
 .heightpage100 {
     height: 100px;
 }
