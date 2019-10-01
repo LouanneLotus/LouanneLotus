@@ -117,11 +117,12 @@ html,body {
         font-size: 25px;
     }
     .parallax {
-        background-image: url(../img/parallaxcellzerotwo.jpg);
+        background-image: url(../img/business.jpg);
 
         height: 100%;
 
         background-attachment: fixed;
+        background-position: center;
         background-repeat: no-repeat;
     }
 }
