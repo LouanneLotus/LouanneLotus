@@ -1,0 +1,104 @@
+html,body {
+    margin:0;
+    height:100%;
+    background-color: white;
+    font-size: 10px;
+
+}
+
+h1{
+    font-family: "Imprint MT Shadow";
+    font-size: 7rem;
+    color: black;
+}
+
+p{
+    font-family: Georgia;
+    font-size: 2rem;
+    font-style: italic;
+    color: #343a40;
+}
+
+.parallax {
+    background-image: url("../img/48952580_2244362005609061_1089533967775825920_n.jpg");
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.whitebackground{
+    background-color: white;
+}
+
+.paddingleft200{
+    padding-left: 200px;
+}
+
+.paddingright200{
+    padding-right: 200px;
+}
+
+.paddingleft150{
+    padding-left: 150px;
+}
+
+.paddingright150{
+    padding-right: 150px;
+}
+
+.paddingtop100{
+    padding-top:50px;
+}
+
+.paddingbot100{
+    padding-bottom: 50px;
+}
+
+body {
+    text-align: center;
+    background: #fcfcfa;
+    color: #818078;
+    font-family: Futura, sans-serif;
+}
+
+.hr {
+    /* centre verticalement les enfants entre eux */
+    align-items: center;
+
+    /* active flexbox */
+    display: flex;
+
+    /* garde le texte centré s’il passe sur plusieurs lignes ou si flexbox n’est pas supporté */
+    text-align: center;
+}
+
+.hr::before,
+.hr::after {
+    /* la couleur est volontairement absente ; ainsi elle sera celle du texte */
+    border-top: .0625em solid;
+
+    /* nécessaire pour afficher les pseudo-éléments */
+    content: "";
+
+    /* partage le reste de la largeur disponible */
+    flex: 1;
+
+    /* espace les traits du texte */
+    margin: 0 .5em;
+}
+
+@media only screen and (max-width: 480px){
+
+}
+@media screen and (min-width: 481px) and (max-width: 1199px) {
+
+}
+@media screen and (min-width: 1200px) {
+
+}
+
+.textblack{
+    color: black;
+}
