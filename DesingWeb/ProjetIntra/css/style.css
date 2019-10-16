@@ -341,25 +341,25 @@ i{
 .bg2{
     background-image: url("../img/zerotwobackground.jpg");
     background-size: cover;
-    height: 755px;
+    height: 100%;
 }
 
 .bg3{
     background-image: url("../img/carousel6.jpg");
     background-size: cover;
-    height: 755px;
+    height: 100%;
 }
 
 .bg4{
     background-image: url("../img/arifureta.jpg");
     background-size: cover;
-    height: 755px;
+    height: 100%;
 }
 
 .bg5{
     background-image: url("../img/arifureta-nagumo-hajime-gun-uhdpaper.com-hd-7.jpg");
     background-size: cover;
-    height: 755px;
+    height: 100%;
 }
 
 
