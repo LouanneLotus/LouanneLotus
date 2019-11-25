@@ -1,0 +1,43 @@
+.paddingtop50{
+    padding-top: 50px;
+}
+
+.paddingtop30{
+    padding-top: 30px;
+}
+
+.paddingtop20{
+    padding-top: 20px;
+}
+
+.paddingleft30{
+    padding-left: 500px;
+}
+
+.paddingright30{
+    padding-right: 30px;
+}
+
+.paddingbot20{
+    padding-bottom: 20px;
+}
+
+h3,h1 {
+    margin: 0 auto;
+}
+
+iframe {
+    width: 100%;
+}
+
+.bgBlack{
+    background-image: url("../img/background/noir.jpg");
+}
+
+.Long{
+    color: red;
+}
+
+.court{
+    color: red;
+}
