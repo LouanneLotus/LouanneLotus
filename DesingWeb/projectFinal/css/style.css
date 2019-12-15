@@ -1,0 +1,162 @@
+html,body {
+    margin:0;
+    height:100%;
+    font-size: 10px;
+    font-family: "Copperplate Gothic Light";
+}
+
+li{
+    font-size: 1.8rem;
+}
+
+section{
+    background-color: darkgrey;
+}
+
+.navbarwhite{
+    color: white;
+}
+
+.colorred{
+    color: red;
+}
+
+video{
+    width: 100%;
+}
+
+.overlay-desc {
+    background: rgba(0,0,0,0);
+    position: absolute;
+    top: 0; right: 0; bottom: 0; left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-style: inherit;
+}
+b{
+    font-size: 4rem;
+    color: white;
+}
+
+.paddingbot1{
+    padding-bottom: 400px;
+}
+
+.colorblack{
+    color: black;
+}
+
+.parallax {
+    background-image: url(../img/vanityplusmind.jpg);
+
+    height: 100%;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax1 {
+    background-image: url(../img/welcometothejungle.jpg);
+
+    height: 100%;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.heightpage {
+    height: 50%;
+}
+
+.paddingtop350{
+    padding-top: 350px;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.paddingtop100{
+    padding-top: 100px;
+}
+
+.paddingbot100{
+    padding-bottom: 100px;
+}
+
+.paddingtop80{
+    padding-top: 80px;
+}
+
+.paddingright100{
+    padding-right: 130px;
+}
+
+.paddingleft100{
+    padding-left: 75px;
+}
+
+.paddingtop0{
+    padding-top: 0px;
+}
+
+@media only screen and (max-width: 641px){
+    .overlay-desc {
+        background: rgba(0,0,0,0);
+        position: absolute;
+        top: 0; right: 0; bottom: 60%; left: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-style: inherit;
+    }
+
+    iframe{
+        width: 500px;
+    }
+    .paddingleft100{
+        padding-left: 0px;
+    }
+}
+/* TABLETTES */
+@media screen and (min-width: 642px) and (max-width: 1199px) {
+    .overlay-desc {
+        background: rgba(0,0,0,0);
+        position: absolute;
+        top: 0; right: 0; bottom: 30%; left: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-style: inherit;
+    }
+    iframe{
+        width: 800px;
+        align-items: center;
+    }
+    body{
+        background-color: darkgrey;
+    }
+}
+@media screen and (min-width: 1200px) {
+
+}
+
+.iframe1{
+    width: 100%;
+    height: 100%;
+    frameborder:"0";
+}
+
+.backgroundcolor{
+    background-color: grey;
+}
+
+p{
+    font-size: 1.5rem;
+}
